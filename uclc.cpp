@@ -10,6 +10,15 @@ int main(){
     else{
         cout<<"uppercase\n";
     }
+    //with ASCII values 
+    if(x>=65 && x<=90){
+        cout<<"UPPERCASSE\n";
+    }
+    else{
+        cout<<"LOWERCASE\n";
+    }
     return 0;
 
 }
+
+
